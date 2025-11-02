@@ -7,3 +7,4 @@ coverage/
 logs/
 build/
 local_settings.py
+.DS_Store
